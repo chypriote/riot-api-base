@@ -19,7 +19,7 @@
 		"guzzlehttp/guzzle": "^7|^6",
 		"symfony/cache": "^6|^5",
 		"psr/cache": "^1",
-		"php": ">=7.3",
+		"php": ">=8.0",
 		"ext-json": "*"
 	},
 	"require-dev": {

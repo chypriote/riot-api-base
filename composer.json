@@ -1,5 +1,5 @@
 {
-	"name": "dolejska-daniel/riot-api-base",
+	"name": "spiregg/riot-api-base",
 	"type": "library",
 	"description": "Generic base for simple Riot API PHP wrapper implementation.",
 	"keywords": ["riot", "api", "wrapper", "base", "php7"],
